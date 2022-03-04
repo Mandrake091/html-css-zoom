@@ -74,6 +74,10 @@ main{
     background-color: black;
     color: rgb(0, 255, 34);
 }
+.box:hover{
+    border: 2px solid rgb(0, 153, 255);
+}
+
 /* /Main */
 
 /* Nav - Bottom */
@@ -109,7 +113,7 @@ nav{
     background-color: rgb(97, 97, 97);
     cursor: pointer;
     align-self: stretch;
-    color: red;
+    color: rgb(255, 48, 48);
     padding: 0 20px;
 }
 /* /nav section */
